@@ -1,2 +1,2 @@
 # python-refresher
-Python code to understand fucntions better
+Python code to understand fucntions, Classes & class objects  better
